@@ -14,12 +14,11 @@ The program uses if-elif-else statements to calculate the regular discount and a
 
 💸 Discount Rules:
 
-Shopping Amount	Regular Discount
-Rs. 10,000 or above	20%
-Rs. 5,000 – Rs. 9,999	10%
-Rs. 2,000 – Rs. 4,999	5%
-Below Rs. 2,000	No Discount
-👑 Premium Member Discount
+- **Rs. 10,000 or above:** 20% Discount
+- **Rs. 5,000 – Rs. 9,999:** 10% Discount
+- **Rs. 2,000 – Rs. 4,999:** 5% Discount
+- **Below Rs. 2,000:** No Discount
+- **👑 Premium Member Discount:** Additional 5% discount
 
 Premium Members receive an additional 5% discount.
 
@@ -39,16 +38,17 @@ The program calculates the total discount.
 The final amount to pay is displayed.
 
 Example:
-
 Input:
 Enter total shopping amount: Rs. 12000
 Are you a Premium Member? (Yes/No): Yes
 
 Output:
-
 ----- Shopping Bill -----
 Original Shopping Amount: Rs. 12000
 Regular Discount: Rs. 2400
 Premium Discount: Rs. 600
 Total Discount: Rs. 3000
+Final Amount to Pay: Rs. 9000
+
+000
 Final Amount to Pay: Rs. 9000
