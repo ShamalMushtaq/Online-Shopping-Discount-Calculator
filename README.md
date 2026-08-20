@@ -42,19 +42,19 @@ This is a simple Python program that calculates the final amount of an online sh
 4. If the customer is a Premium Member, an additional 5% discount is applied.
 5. The total discount and final amount to pay are calculated and displayed.
 
----
-
 ## 📝 Example
 
-**Input:**
+**Console Output:**
 ```text
+Enter total shopping amount: Rs. 12000
+Are you a Premium Member? (Yes/No): Yes
 
-**Output:**
 ----- Shopping Bill -----
 Original Shopping Amount: Rs. 12000.0
 Regular Discount: Rs. 2400.0
 Premium Discount: Rs. 600.0
 Total Discount: Rs. 3000.0
 Final Amount to Pay: Rs. 9000.0
-Enter total shopping amount: Rs. 12000
-Are you a Premium Member? (Yes/No): Yes
+
+---
+
